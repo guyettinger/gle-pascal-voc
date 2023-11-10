@@ -1,0 +1,1 @@
+export { ObjectModel } from './objectModel'

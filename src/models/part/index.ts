@@ -1,0 +1,1 @@
+export { PartModel } from './partModel'
