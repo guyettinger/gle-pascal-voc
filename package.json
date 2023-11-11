@@ -1,7 +1,7 @@
 {
   "name": "gle-pascal-voc",
   "version": "1.0.0",
-  "description": "GLE Components",
+  "description": "GLE Pascal VOC Library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types.d.ts",
