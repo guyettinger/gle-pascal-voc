@@ -33,7 +33,8 @@ export class toXML {
         })
 
         const xml = annotation.end({
-            prettyPrint: true
+            prettyPrint: true,
+            headless: true
         })
         return xml
     }
