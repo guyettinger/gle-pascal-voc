@@ -5,12 +5,16 @@
 # GLE Pascal VOC
 A library for working with Pascal Visual Object Classes (VOC) Annotations
 
+[![Version](https://img.shields.io/npm/v/gle-pascal-voc?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/gle-pascal-voc)
+[![Downloads](https://img.shields.io/npm/dt/gle-pascal-voc.svg?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/gle-pascal-voc)
+
+
 ## Installation
 ```shell
-npm install gle-pascal-voc@latest
+npm install gle-pascal-voc
 ```
 
-## Example
+## Usage
 ```typescript
 const pascalVocModel = new PascalVocModel(
     'Image Folder',
